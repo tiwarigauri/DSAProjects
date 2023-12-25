@@ -1,2 +1,2 @@
 # DSA_Projects
-This repository contains DSA Projects.
+This repository contains DSA Problems and Projects.
